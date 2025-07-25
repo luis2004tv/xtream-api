@@ -46,8 +46,8 @@ import { Xtream } from '@iptv/xtream-api';
 
 const xtream = new Xtream({
   url: 'http://example.com:8080',
-  username: 'username',
-  password: 'password',
+  username: 'luis78',
+  password: 'perz4567',
   preferredFormat: 'm3u8', // optional preferred format for channel URLs
 });
 
